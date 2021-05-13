@@ -40,6 +40,11 @@ talon:
     inverted: false
 
 
+  opn_intake:
+    device_number: 02
+    inverted: false
+
+
 victor:
 
 motor_group:
